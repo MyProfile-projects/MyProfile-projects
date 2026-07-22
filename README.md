@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile_banner.svg" alt="Digital medicine and cardiology" width="100%">
+
 
 # Hi, I’m Sinan Kurbanov
 
