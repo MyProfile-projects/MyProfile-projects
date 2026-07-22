@@ -2,7 +2,7 @@
 
 <img src="assets/profile_banner.svg" alt="Digital medicine and cardiology" width="100%">
 
-# Hi, I’m Maggy Smart
+# Hi, I’m Sinan Kurbanov
 
 ### Digital medicine enthusiast · Medical AI learner · Cardiology-focused researcher
 
