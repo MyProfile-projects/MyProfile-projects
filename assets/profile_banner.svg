@@ -1,1 +1,21 @@
-
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420"><stop stop-color="#0B1020"/><stop offset="0.42" stop-color="#172554"/><stop offset="1" stop-color="#881337"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 150) rotate(135) scale(520 310)"><stop stop-color="#FB7185" stop-opacity="0.62"/><stop offset="0.45" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1400" height="420" rx="34" fill="url(#bg)"/><rect width="1400" height="420" rx="34" fill="url(#glow)"/>
+<g opacity="0.20" stroke="#E0F2FE" stroke-width="2">
+<path d="M900 86 C980 42 1065 72 1128 138 C1186 198 1255 190 1320 150"/>
+<path d="M900 198 C980 150 1060 182 1125 242 C1185 295 1260 280 1320 235"/>
+<path d="M900 306 C985 262 1070 292 1135 348 C1195 394 1260 368 1320 325"/>
+</g>
+<g opacity="0.9"><circle cx="930" cy="88" r="7" fill="#67E8F9"/><circle cx="1050" cy="72" r="7" fill="#67E8F9"/><circle cx="1128" cy="138" r="7" fill="#67E8F9"/><circle cx="1215" cy="188" r="7" fill="#67E8F9"/><circle cx="940" cy="304" r="7" fill="#FB7185"/><circle cx="1060" cy="292" r="7" fill="#FB7185"/><circle cx="1160" cy="350" r="7" fill="#FB7185"/><circle cx="1280" cy="338" r="7" fill="#FB7185"/></g>
+<g transform="translate(90 82)">
+<path d="M12 126 H68 L86 88 L118 182 L148 126 H224" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M250 107 C250 72 294 57 316 91 C338 57 382 72 382 107 C382 158 316 194 316 194 C316 194 250 158 250 107Z" fill="#FB7185" opacity="0.95"/>
+<path d="M278 128 H301 L311 108 L328 154 L342 128 H371" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</g>
+<text x="90" y="292" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Digital Medicine · Cardiology · AI</text>
+<text x="92" y="338" fill="#CFFAFE" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">Clinical thinking meets intelligent technologies</text>
+<text x="92" y="370" fill="#FFE4E6" font-family="Inter, Arial, sans-serif" font-size="18">ECG signals · Medical data · Responsible AI · Human-centered healthcare</text>
+</svg>
