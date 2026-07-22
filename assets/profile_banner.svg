@@ -14,6 +14,7 @@
 <path d="M12 126 H68 L86 88 L118 182 L148 126 H224" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 <path d="M250 107 C250 72 294 57 316 91 C338 57 382 72 382 107 C382 158 316 194 316 194 C316 194 250 158 250 107Z" fill="#FB7185" opacity="0.95"/>
 <path d="M278 128 H301 L311 108 L328 154 L342 128 H371" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</g>
 <text x="90" y="292" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Digital Medicine · Cardiology · AI</text>
 <text x="92" y="338" fill="#CFFAFE" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">Clinical thinking meets intelligent technologies</text>
 <text x="92" y="370" fill="#FFE4E6" font-family="Inter, Arial, sans-serif" font-size="18">ECG signals · Medical data · Responsible AI · Human-centered healthcare</text>
